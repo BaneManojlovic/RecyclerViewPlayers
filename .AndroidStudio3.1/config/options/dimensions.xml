@@ -31,10 +31,12 @@
     <location key="GitCloneDialog.0.0.1920.1080" x="773" y="423" />
     <location key="#app.0.0.1920.1080" x="719" y="148" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="738" y="396" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="232" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="232" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="232" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="232" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080" x="708" y="365" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1438" y="930" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="0" height="0" />
     <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1876" height="334" />
     <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1876" height="334" />
     <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1876" height="334" />
@@ -43,5 +45,6 @@
     <size key="AndroidProcessChooserDialog.0.0.1920.1080" width="522" height="486" />
     <size key="lint.notification.0.0.1920.1080" width="649" height="482" />
     <size key="deploy.picker.dialog.0.0.1920.1080" width="640" height="551" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="116" />
   </component>
 </application>

@@ -1,13 +1,13 @@
 <application>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="StripeButton[Android Profiler].hidden" count="54" />
-      <entry feature="StripeButton[Android Profiler].shown" count="27" />
+      <entry feature="StripeButton[Android Profiler].hidden" count="55" />
+      <entry feature="StripeButton[Android Profiler].shown" count="28" />
       <entry feature="StripeButton[Version Control].hidden" count="1" />
-      <entry feature="StripeButton[Version Control].shown" count="5" />
+      <entry feature="StripeButton[Version Control].shown" count="6" />
       <entry feature="execute.AndroidJUnit.Run" count="4" />
       <entry feature="execute.AndroidRunConfigurationType.Debug" count="3" />
-      <entry feature="execute.AndroidRunConfigurationType.Run" count="407" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="409" />
       <entry feature="execute.AndroidTestRunConfigurationType.Run" count="9" />
       <entry feature="ide.settings.Android SDK" count="1" />
       <entry feature="ide.settings.Android_SDK" count="3" />

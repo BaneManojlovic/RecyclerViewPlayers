@@ -3,6 +3,7 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/AndroidStudioProjects/RecyclerViewPlayers" />
+        <option value="$USER_HOME$/AndroidStudioProjects/RVWNewsExample" />
         <option value="$USER_HOME$/AndroidStudioProjects/BITTorch" />
         <option value="$USER_HOME$/AndroidStudioProjects/TestProject" />
         <option value="$USER_HOME$/AndroidStudioProjects/RVWex3" />
@@ -321,6 +322,17 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/RVWNewsExample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538407434025" />
+              <option name="buildTimestamp" value="1523654853416" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AndroidStudioProjects/RVWex3">
           <value>
             <RecentProjectMetaInfo>
@@ -338,7 +350,7 @@
               <option name="build" value="AI-173.4720617" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1538378792407" />
+              <option name="projectOpenTimestamp" value="1538407631047" />
               <option name="buildTimestamp" value="1523654853416" />
             </RecentProjectMetaInfo>
           </value>
