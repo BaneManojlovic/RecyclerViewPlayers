@@ -1,0 +1,47 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="437" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="667" y="331" />
+    <location key="deploy.picker.dialog.0.0.1920.1080" x="640" y="268" />
+    <location key="SettingsEditor.0.0.1920.1080" x="441" y="169" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="740" y="268" />
+    <location key="AndroidThemeDialog.0.0.1920.1080" x="540" y="218" />
+    <location key="AndroidCreateXmlResourceDialog.0.0.1920.1080" x="818" y="306" />
+    <location key="AndroidCreateResourceDirectoryDialog.0.0.1920.1080" x="540" y="268" />
+    <location key="#Project_Structure.0.0.1920.1080" x="290" y="164" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="438" y="268" />
+    <location key="AndroidProcessChooserDialog.0.0.1920.1080" x="563" y="293" />
+    <location key="#Menus_and_Toolbars.0.0.1920.1080" x="718" y="283" />
+    <location key="chooseDestDirectoryDialog.0.0.1920.1080" x="776" y="291" />
+    <location key="AndroidCreateResourceFileDialog.0.0.1920.1080" x="540" y="268" />
+    <location key="#Inspections.0.0.1920.1080" x="592" y="185" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="540" y="168" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="690" y="260" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="765" y="229" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1920.1080" x="674" y="144" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" x="689" y="303" />
+    <location key="#Notifications.0.0.1920.1080" x="709" y="241" />
+    <location key="LayoutInspector.WindowPicker.Options.Dimensions.0.0.1920.1080" x="802" y="454" />
+    <location key="#com.google.gct.testrecorder.ui.TestClassNameInputDialog.0.0.1920.1080" x="715" y="444" />
+    <location key="IdeErrosDialog.0.0.1920.1080" x="591" y="356" />
+    <location key="Github.ShareDialog.0.0.1920.1080" x="752" y="389" />
+    <location key="Github.UntrackedFilesDialog.0.0.1920.1080" x="0" y="0" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="584" y="116" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="636" y="250" />
+    <location key="GitCloneDialog.0.0.1920.1080" x="773" y="423" />
+    <location key="#app.0.0.1920.1080" x="719" y="148" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="738" y="396" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="232" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="232" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="232" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="232" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1876" height="334" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1876" height="334" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1876" height="334" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1876" height="334" />
+    <size key="javadoc.popup.0.0.1920.1080" width="446" height="170" />
+    <size key="AndroidProcessChooserDialog.0.0.1920.1080" width="522" height="486" />
+    <size key="lint.notification.0.0.1920.1080" width="649" height="482" />
+    <size key="deploy.picker.dialog.0.0.1920.1080" width="640" height="551" />
+  </component>
+</application>

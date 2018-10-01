@@ -1,0 +1,75 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V2" value="true" />
+    <property name="android-component-compatibility-check" value="1537945445809" />
+    <property name="MobileminApi" value="21" />
+    <property name="lastTip" value="1" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="newly.installed.api.level" value="22" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/AndroidStudioProjects/BITTorch&#10;C:/Users/manojlovic/AndroidStudioProjects/TestProject&#10;C:/Users/manojlovic/AndroidStudioProjects/RVWex3&#10;C:/Users/manojlovic/AppData/Local/Programs/Git/cmd/git.exe&#10;C:/Users/manojlovic/AndroidStudioProjects/MNUprojekat&#10;C:/Users/manojlovic/AndroidStudioProjects/TestProject/app/src/main/res/drawable/picture01.jpg&#10;C:/Users/manojlovic/AndroidStudioProjects/android-RecyclerView-master&#10;C:/Users/manojlovic/AndroidStudioProjects/METPB&#10;C:/Users/manojlovic/Desktop/Screenshot_2.png&#10;C:/Users/manojlovic/Desktop/Screenshot_2018-05-31-09-52-05.png&#10;C:/Users/manojlovic/AndroidStudioProjects/METPB/app/src/main/res/drawable/background.png&#10;C:/Users/manojlovic/AndroidStudioProjects/Dialog&#10;C:/Users/manojlovic/AndroidStudioProjects/DomaciZadatak31&#10;C:/Users/manojlovic/AndroidStudioProjects/DomaciZadatak32&#10;C:/Users/manojlovic/AndroidStudioProjects/Dialog1&#10;C:/Users/manojlovic/Desktop/Test03/selendroid-test-app-0.17.0.apk&#10;C:/Users/manojlovic/Downloads/Calculator Plus Free_v5.3.0_apkpure.com.apk&#10;C:/Users/manojlovic/Downloads/Calculator_v6.0.10_apkpure.com.apk" />
+    <property name="last.imported.location" value="$USER_HOME$/Downloads/Calculator Plus Free_v5.3.0_apkpure.com.apk" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.WIDTH" value="200" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="AndroidEnableDdms" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.WIDTH" value="547" />
+    <property name="SAVED_COMPANY_DOMAIN" value="bitnovisad.com" />
+    <property name="android.apk.viewer" value="0.3442623" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.WIDTH" value="318" />
+    <property name="ConstraintLayoutPreferenceShowAllConstraints" value="true" />
+    <property name="PLUGIN_FILTER" value="Key Promoter" />
+    <property name="ColorChooser.RecentColors" value="17-35-229-255,,,255-114-0-255,,,0-0-0-255,,,2-255-252-255,,,58-255-237-255,,,249-251-255-255,,,255-255-255-255,,,166-6-31-255,,,255-223-10-255,,,246-6-41-255" />
+    <property name="inspector.open.textAppearance" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.2.30-release-Studio3.1-1" />
+    <property name="file.gist.reindex.count" value="1010" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH" value="312" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH" value="251" />
+    <property name="properties.mode" value="INSPECTOR" />
+    <property name="SearchEveryWhereHistory" value="activity&#10;otvo" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.VIEW_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.VIEW_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.VIEW_TREE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.VIEW_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TOOL_ORDER" value="VIEW_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.TOOL_ORDER" value="VIEW_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.LEFT.UNSCALED.WIDTH" value="475" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.RIGHT.UNSCALED.WIDTH" value="636" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="LOG_FILTER_HISTORY" value="" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.61504424" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+  </component>
+</application>

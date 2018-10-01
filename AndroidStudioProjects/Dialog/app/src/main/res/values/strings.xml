@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="fit">FIT</string>
+    <string name="fdu">Fakultet Dig Umetnosti</string>
+    <string name="fm">Fakultet za Menadzment</string>
+    <string name="btnOk">OK</string>
+</resources>

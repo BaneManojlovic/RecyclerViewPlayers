@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RadioButton
+        android:id="@+id/btn_fit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fit"
+        android:onClick="onClickFit"/>
+
+    <RadioButton
+        android:id="@+id/btn_fm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fm"
+        android:onClick="onClickFit"/>
+
+    <RadioButton
+        android:id="@+id/btn_fdu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fdu" />
+
+    <Button
+        android:id="@+id/btn_ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:text="@string/btnOk" />
+</LinearLayout>

@@ -1,0 +1,18 @@
+<application>
+  <component name="KeyPromoterStats">
+    <option name="stats">
+      <map>
+        <entry key="'Alt+6'" value="4" />
+        <entry key="'Ctrl+Alt+S'" value="1" />
+        <entry key="'Ctrl+F2'" value="25" />
+        <entry key="'Ctrl+F9'" value="25" />
+        <entry key="'Ctrl+S'" value="32" />
+        <entry key="'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'" value="1" />
+        <entry key="'Ctrl+X' or 'Shift+Delete'" value="1" />
+        <entry key="'Ctrl+Z' or 'Alt+Backspace'" value="29" />
+        <entry key="'Delete'" value="3" />
+        <entry key="'Shift+F10'" value="40" />
+      </map>
+    </option>
+  </component>
+</application>
