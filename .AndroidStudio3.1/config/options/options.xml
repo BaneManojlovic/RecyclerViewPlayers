@@ -69,7 +69,7 @@
     <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
     <property name="ShowDocumentationInToolWindow" value="false" />
     <property name="LOG_FILTER_HISTORY" value="" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.61946905" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.65929204" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
   </component>
 </application>
